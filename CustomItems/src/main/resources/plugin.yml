@@ -1,0 +1,10 @@
+name: Customitems
+version: ${project.version}
+main: me.burzakrual.customitems.Main
+api-version: 1.16
+authors: [ BurzaKrual, Snozzlebot ]
+description: Custom İtems
+commands:
+  wands:
+    description: Wand command
+    usage: /<command>
